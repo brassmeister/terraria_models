@@ -1,0 +1,125 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": "Copper Shortsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "terraria_models:item/copper_shortsword_model"
+        }
+      },
+      {
+        "when": "Copper Broadsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "terraria_models:item/copper_broadsword_model"
+        }
+      },
+      {
+        "when": "Tin Shortsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "terraria_models:item/tin_shortsword_model"
+        }
+      },
+      {
+        "when": "Tin Broadsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "terraria_models:item/tin_broadsword_model"
+        }
+      },
+      {
+        "when": "Lead Shortsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "terraria_models:item/lead_shortsword_model"
+        }
+      },
+      {
+        "when": "Lead Broadsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "terraria_models:item/lead_broadsword_model"
+        }
+      },
+      {
+        "when": "Iron Shortsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "terraria_models:item/iron_shortsword_model"
+        }
+      },
+      {
+        "when": "Iron Broadsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "terraria_models:item/iron_broadsword_model"
+        }
+      },
+      {
+        "when": "Tungsten Shortsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "terraria_models:item/tungsten_shortsword_model"
+        }
+      },
+      {
+        "when": "Tungsten Broadsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "terraria_models:item/tungsten_broadsword_model"
+        }
+      },
+      {
+        "when": "Silver Shortsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "terraria_models:item/silver_shortsword_model"
+        }
+      },
+      {
+        "when": "Silver Broadsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "terraria_models:item/silver_broadsword_model"
+        }
+      },
+      {
+        "when": "Gold Shortsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "terraria_models:item/gold_shortsword_model"
+        }
+      },
+      {
+        "when": "Gold Broadsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "terraria_models:item/gold_broadsword_model"
+        }
+      },
+      {
+        "when": "Platinum Shortsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "terraria_models:item/platinum_shortsword_model"
+        }
+      },
+      {
+        "when": "Platinum Broadsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "terraria_models:item/platinum_broadsword_model"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/iron_sword"
+    }
+  }
+}
